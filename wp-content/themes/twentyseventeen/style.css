@@ -178,9 +178,9 @@ body {background: #fff;}
 .site-branding a:hover, .site-branding a:focus {opacity: .7;}
 .site-title {clear: none;font-size: 24px;font-size: 1.5rem;font-weight: 800;line-height: 1.25;letter-spacing: .08em;margin: 0;padding: 0;text-transform: uppercase;}
 .site-title, .site-title a {color: #222;opacity: 1;}
-body.has-header-image .site-title, body.has-header-video .site-title, body.has-header-image .site-title a, body.has-header-video .site-title a {color: #fff;}
+body.has-header-image .site-title, body.has-header-video .site-title, body.has-header-image .site-title a, body.has-header-video .site-title a {color: #ffc600;}
 .site-description {color: #666;font-size: 13px;font-size: .8125rem;margin-bottom: 0;}
-body.has-header-image .site-description, body.has-header-video .site-description {color: #fff;opacity: .8;}
+body.has-header-image .site-description, body.has-header-video .site-description {color: #777;opacity: .8;}
 .custom-logo-link {display: inline-block;padding-right: 1em;vertical-align: middle;width: auto;}
 .custom-logo-link img {display: inline-block;max-height: 80px;width: auto;}
 body.home.title-tagline-hidden.has-header-image .custom-logo-link img, body.home.title-tagline-hidden.has-header-video .custom-logo-link img {max-height: 200px;max-width: 100%;}
